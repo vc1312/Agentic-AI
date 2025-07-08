@@ -1,0 +1,6 @@
+langchain
+#Langchain library we will need to build the apps
+ipykernel
+# ipykerner allows to attach kernel to the Jupyter notebook
+python-dotenv
+# this imports all the keys and the other values from .env file. This lets you use them in your code, i.e., .py or .ipynb file.
